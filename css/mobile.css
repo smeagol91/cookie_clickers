@@ -1,0 +1,15 @@
+td, th {
+    font-size: 11px;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h1 .titlelink {
+	font-size: 2rem;
+}
+
+input {
+    max-width: 33px;
+}
